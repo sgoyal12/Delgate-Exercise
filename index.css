@@ -1,0 +1,12 @@
+.col-container {
+  display: table;
+}
+
+.col {
+  display: table-cell;
+  width: 90%;
+}
+
+.highlight {
+  border: 2px solid red;
+}
